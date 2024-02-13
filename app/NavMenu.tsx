@@ -26,6 +26,11 @@ export default function NavMenu() {
           <Link href={"/users"}>Users</Link>
         </li>
         <li>
+          <AuthCheck>
+            <Link href={"/dashboard"}>Dashboard</Link>
+          </AuthCheck>
+        </li>
+        <li>
           <SignInButton />
         </li>
         <li>
