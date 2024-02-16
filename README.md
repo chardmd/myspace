@@ -1,6 +1,6 @@
 # NextSpace
 
-Playing with NextJS 14 Fundamentals
+Playing with Next.js, Prisma, and Auth.js
 
 ## Getting Started
 
